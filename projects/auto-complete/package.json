@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ng2-ui/auto-complete.git"
+    "url": "git+https://github.com/ajmal1971/ngxui-auto-complete.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/ng2-ui/auto-complete/issues"
+    "url": "https://github.com/ajmal1971/ngxui-auto-complete/issues"
   },
-  "homepage": "https://github.com/ng2-ui/auto-complete#readme",
+  "homepage": "https://github.com/ajmal1971/ngxui-auto-complete#readme",
   "keywords": [
     "angular",
     "auto-complete",
