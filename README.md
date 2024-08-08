@@ -1,6 +1,6 @@
 # auto-complete
 
-[![npm](https://img.shields.io/npm/dt/@ngxui/auto-complete.svg)](https://www.npmjs.com/package/@ngxui/auto-complete)  [![npm](https://img.shields.io/npm/v/@ngxui/auto-complete.svg)](https://www.npmjs.com/package/@ngxui/auto-complete) [![npm](https://img.shields.io/npm/l/@ngxui/auto-complete.svg)](https://www.npmjs.com/package/@ngxui/auto-complete)
+[![npm](https://img.shields.io/npm/dt/ngxui-auto-complete.svg)](https://www.npmjs.com/package/ngxui-auto-complete)  [![npm](https://img.shields.io/npm/v/ngxui-auto-complete.svg)](https://www.npmjs.com/package/ngxui-auto-complete) [![npm](https://img.shields.io/npm/l/ngxui-auto-complete.svg)](https://www.npmjs.com/package/ngxui-auto-complete)
 
 ##### IMPORTANT: HELP NEEDED
 
@@ -8,17 +8,17 @@ The project need your help, any help for fixing bugs and improvements are welcom
 
 ## Install
 
-1. install @ngxui/auto-complete
+1. install ngxui-auto-complete
 
-        $ npm install @ngxui/auto-complete --save
+        $ npm install ngxui-auto-complete --save
 
 2. add `map` and `packages` to your `systemjs.config.js` unless you are using `webpack`
 
-        map['@ngxui/auto-complete'] = 'node_modules/@ngxui/auto-complete/dist/auto-complete.umd.js';
+        map['ngxui-auto-complete'] = 'node_modules/ngxui-auto-complete/dist/auto-complete.umd.js';
 
 3. import NguiAutoCompleteModule to your AppModule
 
-        import { NguiAutoCompleteModule } from '@ngxui/auto-complete';
+        import { NguiAutoCompleteModule } from 'ngxui-auto-complete';
 
         @NgModule({
           imports: [BrowserModule, FormsModule, NguiAutoCompleteModule],

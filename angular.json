@@ -164,5 +164,8 @@
         }
       }
     }},
-  "defaultProject": "auto-complete"
+  "defaultProject": "auto-complete",
+  "cli": {
+    "analytics": false
+  }
 }

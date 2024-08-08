@@ -1,5 +1,5 @@
 {
-  "name": "@ngxui/auto-complete",
+  "name": "ngxui-auto-complete",
   "version": "1.0.0",
   "description": "Angular Input Autocomplete",
   "license": "MIT",

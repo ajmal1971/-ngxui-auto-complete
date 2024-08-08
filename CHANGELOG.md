@@ -18,7 +18,7 @@
 ### [0.13.4]
 - now the first item on the suggestion dropdown will not be auto-selected until we press the arrow down key
 ### [0.13.0]
-- renamed module to @ngxui/auto-complete
+- renamed module to ngxui-auto-complete
 ### [0.12.0]
 - added a new property `match-formatted`
 ### [0.11.0]
