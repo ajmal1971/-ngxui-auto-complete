@@ -1,0 +1,28 @@
+{
+  "name": "@ngxui/auto-complete",
+  "version": "1.0.0",
+  "description": "Angular Input Autocomplete",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng2-ui/auto-complete.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ng2-ui/auto-complete/issues"
+  },
+  "homepage": "https://github.com/ng2-ui/auto-complete#readme",
+  "keywords": [
+    "angular",
+    "auto-complete",
+    "input",
+    "select"
+  ],
+  "dependencies": {
+    "tslib": "^2.6.2"
+  },
+  "peerDependencies": {
+    "@angular/common": "^17.3.10",
+    "@angular/core": "^17.3.10"
+  }
+}
